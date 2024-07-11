@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/Desktop/Math visuallize Manim/media/videos/vd1/480p15/partial_movie_files/ParametricGraphExample/1185818338_4275772922_223132457.mp4'
+file 'file:C:/Users/Admin/Desktop/Math visuallize Manim/media/videos/vd1/480p15/partial_movie_files/ParametricGraphExample/624642324_3407936617_32921885.mp4'
+file 'file:C:/Users/Admin/Desktop/Math visuallize Manim/media/videos/vd1/480p15/partial_movie_files/ParametricGraphExample/624642324_1769213056_3603879097.mp4'
